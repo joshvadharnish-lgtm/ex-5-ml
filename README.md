@@ -76,8 +76,9 @@ plt.show()
 
 ## Output:
 <img width="735" height="568" alt="image" src="https://github.com/user-attachments/assets/9339d3b5-2b72-48b9-92ea-5b53d8c876ea" />
-![Uploading Screenshot 2026-02-25 093143.png…]()
 
+
+<img width="1027" height="402" alt="Screenshot 2026-02-25 093143" src="https://github.com/user-attachments/assets/8cec3d94-4848-48f6-92c1-9bcef710aa18" />
 
 
 ## Result:
